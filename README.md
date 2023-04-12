@@ -62,7 +62,7 @@ You can directly **"install and run"** the software on your system
 
 - Download the **".exe"** file 
 - Install it like you install the other software
-- And all set open the software and play the song you love
+- And all set open the software and download the videos you want to save offline - **for free**
 ## Author
 
 - [@Bishal Prasad](https://www.github.com/Bishal-prasad05)
